@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "folder_name": "online-certificates",
+  "folder_name": "Online-Certificates",
   "description": "Collection of online course completion certificates and training records. These entries are records of course completions; many entries may not have an issuer verification URL.",
   "owner": "AAdrian5122007",
   "visibility_policy": "Metadata is public. Certificate PDFs may contain personal data — consider keeping PDFs private, encrypted, or providing them on request.",
