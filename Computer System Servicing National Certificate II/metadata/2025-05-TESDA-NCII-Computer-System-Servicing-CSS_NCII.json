@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "file": "certificates/2025-05 - TESDA - NCII Computer System Servicing - CSS_NCII.pdf",
+  "title": "TESDA National Certificate II in Computer System Servicing",
+  "issuer": "Technical Education and Skills Development Authority (TESDA)",
+  "issue_date": "2025-05-21",
+  "expiration_date": "2030-05-20",
+  "credential_range": {
+    "first": "2511",
+    "last": "3177"
+  },
+  "verification_url": "https://tesda.gov.ph/Rwac/Rwac2017",
+  "verification_instructions": "Enter the credential number on the TESDA verification page.",
+  "badge_url": null,
+  "public": true,
+  "thumbnail": "My-Certificates/Computer System Servicing National Certificate II/CSS_NCII_Verification",
+  "notes": "Official TESDA NC II. Original PDF contains personal data and is kept private; this metadata and the verification link are provided for validation.",
+  "added_by": "AAdrian5122007",
+  "added_date": "2025-12-14",
+  "tags": [
+    "tesda",
+    "national-certificate",
+    "computer-system-servicing"
+  ]
+}
