@@ -1,11 +1,11 @@
-{
+ficate{
   "schema_version": "1.0",
   "file": "certificates/2025-05 - TESDA - NCII Computer System Servicing - CSS_NCII.pdf",
   "title": "TESDA National Certificate II in Computer System Servicing",
   "issuer": "Technical Education and Skills Development Authority (TESDA)",
   "issue_date": "2025-05-21",
   "expiration_date": "2030-05-20",
-  "credential_range": {
+  "certificate_number": {
     "first": "2511",
     "last": "3177"
   },
