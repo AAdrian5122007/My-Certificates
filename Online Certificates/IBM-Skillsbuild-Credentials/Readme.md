@@ -10,7 +10,7 @@ Owner: AAdrian5122007
 
 ## Purpose
 - Centralize all IBM SkillsBuild credentials in a single, consistent location.  
-- Store both human-readable files (badge image, PDF) and machine-readable proofs (Open Badges assertion JSON) when available.  
+- Store both human-readable files (badge image, PDF) and machine-readable proofs.
 - Make verification, indexing, and lightweight automation straightforward.
 
 
