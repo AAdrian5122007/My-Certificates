@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "folder_name": "online-certificates",
+  "description": "Collection of online course completion certificates and training records. These entries are records of course completions; many entries may not have an issuer verification URL.",
+  "owner": "AAdrian5122007",
+  "visibility_policy": "Metadata is public. Certificate PDFs may contain personal data — consider keeping PDFs private, encrypted, or providing them on request.",
+  "created_date": "2025-12-14",
+  "recommended_structure": {
+    "certificates_folder": "My-Certificates/Online Certificates/",
+    "per_certificate_metadata": "metadata/online-certificates/<YYYY-MM>-PROVIDER-SHORTTITLE.json",
+    "index_file": "metadata/online-certificates/index.json",
+    "schema_file": "metadata/online-certificates/schema_certificate.json"
+  },
+  "notes": "For course completions without verification URLs, set verification_url: null and add verification_instructions or evidence_url (private link) for verifiers."
+}
